@@ -1,2 +1,2 @@
-# Tribute-Page
+# Tribute Page
 Sardar Patel
